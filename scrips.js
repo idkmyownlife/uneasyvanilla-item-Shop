@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 document.getElementById("Items").onclick = function(event) {
   event.preventDefault();
-  window.location.href = "Items/items.html";
+  window.location.href = "items/items.html";
 };
+
 
