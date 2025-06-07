@@ -1,6 +1,6 @@
 document.getElementById("Home").onclick = function(event) {
   event.preventDefault();
-  window.location.href = "../visual.html";
+  window.location.href = "../index.html";
 };
 document.getElementById("Kits").onclick = function(event) {
   event.preventDefault();
